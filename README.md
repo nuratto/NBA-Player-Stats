@@ -1,0 +1,4 @@
+This React-based web application allows users to quickly access detailed statistics for NBA players. Simply enter the player's first name and last name, click 'Search,' and get instant insights into their performance. The app fetches data from an external API and displays key information such as player name, age, team, games played, three-point percentage, two-point percentage, free throw percentage, minutes played, and more. Users can gain valuable insights into their favorite NBA players' performance over a specific season. The app's intuitive design and user-friendly interface make it a valuable tool for basketball enthusiasts and data-driven fans alike.
+
+
+Design and Devloped by: Nur Atto
